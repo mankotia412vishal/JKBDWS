@@ -1,0 +1,1 @@
+chrome-extension://ejfmffkmeigkphomnpabpdabfddeadcb/1.7.0/extension/workers/content.js

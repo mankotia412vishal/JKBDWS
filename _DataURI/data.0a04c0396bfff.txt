@@ -1,0 +1,1 @@
+chrome-extension://ofkkcnbmhaodoaehikkibjanliaeffel/js/content_scripts/core/restyler.min.js
