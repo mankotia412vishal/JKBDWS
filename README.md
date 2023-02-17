@@ -2,11 +2,6 @@
 
 JK Blood Donors And Welfare Society
 
-# License :
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
-</br> ``` A creative commons license that bans commercial use.```
- 
-
 ## Features
  
 -  Login & Signup
@@ -30,16 +25,25 @@ git clone https://github.com/mankotia412vishal/JKBDWS
 ```
 2 ) Working URL of the website 
 ```bash
-check https://jkbdws.web.app/
+https://jkbdws.web.app/
 ```
  
 
 ## Working Screenshots
+---
  
-## Contributing
+ ![image](https://user-images.githubusercontent.com/90970004/219631135-4d86dee2-eb2a-4fb9-82d1-230ab4e918fa.png)
 
-Contributions are always welcome!
+ ![image](https://user-images.githubusercontent.com/90970004/219631228-00802c18-2fd0-4252-b0d2-48d469891491.png)
 
+ ![image](https://user-images.githubusercontent.com/90970004/219631313-a425edb0-6a10-4b33-8204-b09f540c7e3d.png)
+
+ ![image](https://user-images.githubusercontent.com/90970004/219631490-3783461c-a1bd-47f1-a920-a2dcd48e6879.png)
+
+ ![image](https://user-images.githubusercontent.com/90970004/219631637-5df66eb5-1dc0-49ad-9366-107be9145e5a.png)
+
+---
+ 
 
 ## Support
 
