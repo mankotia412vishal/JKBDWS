@@ -1,4 +1,4 @@
-## ## JKBDWS is a Blood Donation project for NGO in Jammu Kathua 
+## JKBDWS is a Blood Donation project for NGO in Jammu Kathua 
 
 JK Blood Donors And Welfare Society
 
